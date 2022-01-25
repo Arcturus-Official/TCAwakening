@@ -1,4 +1,7 @@
 # Arcturus Tekkit
-Technic oriented modpack inspired by Tekkit Classic
+Technic oriented modpack inspired by Tekkit series
 
-Author: Avalanche7
+### **THIS PACK IS STILL IN DEVELOPMENT**
+
+### Contributors:
+- Avalanche7
