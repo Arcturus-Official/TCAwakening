@@ -1,3 +1,4 @@
+![logo](logo.png)
 # TC Awakening 
 Technic oriented modpack inspired by Tekkit series
 <p>
