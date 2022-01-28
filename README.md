@@ -1,4 +1,4 @@
-# Arcturus Tekkit
+# TC Awakening 
 Technic oriented modpack inspired by Tekkit series
 <p>
 The goal is to provide an advanced tech experience
