@@ -1,5 +1,4 @@
-![logo](logo.png)
-# TC Awakening 
+# <img src="logo.png" width="32"/> TC Awakening 
 Technic oriented modpack inspired by Tekkit series
 <p>
 The goal is to provide an advanced tech experience
