@@ -1,7 +1,7 @@
 # <img src="logo.png" width="512"/> 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg) ![Build](https://img.shields.io/badge/Build-1.0.0-green.svg) ![MC](https://img.shields.io/badge/MC-1.12.2-red.svg) 
 ## What is TC Awakening?
-Technic oriented modpack inspired by Tekkit series.
+Technic oriented modpack inspired by Tekkit series and GT.
 
 The goal is to provide an advanced tech experience.
 
